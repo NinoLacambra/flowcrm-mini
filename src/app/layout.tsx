@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Flow Mini CRM",
+  title: "FlowCRM",
   description: "Lightweight full-stack CRM with Supabase Auth, PostgreSQL, Drizzle ORM, activity tracking, and drag-and-drop sales pipeline.",
 };
 
